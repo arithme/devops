@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="login-container">
-        <h2>Login</h2>
+        <h2>Login For JHP</h2>
         <form action="/login" method="post">
             <div class="input-group">
                 <label for="username">Username</label>
