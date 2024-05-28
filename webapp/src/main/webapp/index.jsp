@@ -66,7 +66,7 @@
             <p>For inquiries and clarification regarding this tender, please contact:</p>
             <p>Contact Name: <strong>Abnish Kumar Singh</strong></p>
             <p>Email: <a href="mailto:abnishkumarsingh16@gmail.com">abnishkumarsingh16@gmail.com</a></p>
-            <p>Phone Number: <strong>7903056627</strong></p>
+            <p>Phone Number: <strong>9771423850</strong></p>
         </section>
         <footer>
             <p>Note: The contracting authority reserves the right to reject any or all proposals and to waive any irregularities or informalities in the bidding process. This tender notice is not binding and is subject to negotiation and finalization of terms with the selected service provider.</p>
