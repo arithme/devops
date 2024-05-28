@@ -1,0 +1,335 @@
+[33mcommit b5fa18191ba9471f36ab1f38e8e37ce372a36d57[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mravi[m[33m, [m[1;31mdev/devops[m[33m)[m
+Author: ravi <ravi.arithme@gmail.com>
+Date:   Tue May 28 14:51:20 2024 +0530
+
+    added login page with css
+
+[33mcommit aacc9fa39ba3ca8f46cfd0019f35ce4511287375[m[33m ([m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-21-238.ec2.internal>
+Date:   Fri Sep 23 12:56:59 2022 +0000
+
+    updated pom.xml file
+
+[33mcommit 2ed39a6aa4a4678981cbb1893e7a1fd4bd89ded5[m
+Author: unknown <Ravdy>
+Date:   Sat Nov 13 17:40:36 2021 +0530
+
+    added regapp deployment and service files
+
+[33mcommit a2ec74b78720d7cc635799eae84de02595ece399[m
+Author: unknown <Ravdy>
+Date:   Sat Nov 13 17:07:06 2021 +0530
+
+    thank you
+
+[33mcommit 4d7fb0e78abdd4cef3f60a5de0d36ba8ac0c6897[m
+Author: unknown <Ravdy>
+Date:   Sat Nov 13 17:02:34 2021 +0530
+
+    updated header
+
+[33mcommit 3315441110d946329abbb4ce1d41e7ff4e2f7b7a[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sat Nov 13 16:48:49 2021 +0530
+
+    Update index.jsp
+
+[33mcommit 1bf5f3506b39a15a2ee5a92766143619363c8117[m
+Author: unknown <Ravdy>
+Date:   Sat Nov 13 16:44:39 2021 +0530
+
+    added simple commit
+
+[33mcommit 4178cdb021ebfc9c8a39db198e7dee0b8f4743a5[m
+Author: unknown <Ravdy>
+Date:   Sat Nov 13 16:35:46 2021 +0530
+
+    updated username field
+
+[33mcommit e25945395ab519880644bd69c80eead9ff70e138[m
+Author: unknown <Ravdy>
+Date:   Sat Nov 13 16:21:17 2021 +0530
+
+    updated mobile number
+
+[33mcommit cddbd8be2f7f94f31610ab86789e890d15952642[m
+Author: unknown <Ravdy>
+Date:   Sat Nov 13 15:59:06 2021 +0530
+
+    intoduced a bug
+
+[33mcommit 58c8bb1db56499c6772236acae01389709bed9e7[m
+Author: unknown <Ravdy>
+Date:   Tue Nov 9 19:47:09 2021 +0530
+
+    bug fix for email
+
+[33mcommit 16f29fc535d2d56d41e2755537f9fd9f30a43e8c[m
+Author: unknown <Ravdy>
+Date:   Tue Nov 9 19:12:50 2021 +0530
+
+    bugfix for name entry
+
+[33mcommit b0a473929463b80eccfb3d4212160e240cbb2073[m
+Author: unknown <Ravdy>
+Date:   Tue Nov 9 19:09:23 2021 +0530
+
+    bugfix for name entry
+
+[33mcommit d596390ce6f41aa0c6d5a3e4e1b7b1546c469d8e[m
+Author: unknown <Ravdy>
+Date:   Mon Nov 8 20:22:46 2021 +0530
+
+    updated index.jsp
+
+[33mcommit bd8e97f1abc71b26f2abb0344ed1fbdba9886610[m
+Author: unknown <Ravdy>
+Date:   Mon Nov 8 20:11:00 2021 +0530
+
+    updated index.jsp file
+
+[33mcommit 00042236a95ba34157890220044e111b92f6248d[m
+Author: unknown <Ravdy>
+Date:   Sun Nov 7 15:06:19 2021 +0530
+
+    password field in new link in index.jsp
+
+[33mcommit 60abb265a238a16496816565f947b8fabac96d89[m
+Author: unknown <Ravdy>
+Date:   Sun Nov 7 15:03:32 2021 +0530
+
+    password field in new link in index.jsp
+
+[33mcommit 802c781cc30d479c3b84e99945d96935ad99b5e9[m
+Author: unknown <Ravdy>
+Date:   Sun Nov 7 15:01:29 2021 +0530
+
+    password field in new link in index.jsp
+
+[33mcommit 2804e65942645b6d294e552cb903849b4818b29f[m
+Author: unknown <Ravdy>
+Date:   Sun Nov 7 14:35:49 2021 +0530
+
+    updated index.jsp file
+
+[33mcommit e54ec5e8859c5afa286d3231c6ef89bdfa6d86d0[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sat Nov 6 19:16:43 2021 +0530
+
+    Update README.md
+
+[33mcommit b31da575ddf23c9c8d23d9a88f5d8cfbd09a7fc1[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sat Nov 6 19:15:49 2021 +0530
+
+    Update pom.xml
+
+[33mcommit f0f663c83191c4e813b7e577d41a2d35ef5995cd[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sat Nov 6 19:15:12 2021 +0530
+
+    Update pom.xml
+
+[33mcommit ec19a44f69f933bf1bd66849636f778c60ae52ac[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sat Nov 6 19:14:41 2021 +0530
+
+    Update Dockerfile
+
+[33mcommit 7b15cfbd4eadd141dcba5c4822e361b8952bb517[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sat Nov 6 19:14:10 2021 +0530
+
+    Update web.xml
+
+[33mcommit b862ccab8857599345fb27c460206438a8480956[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sat Nov 6 17:46:23 2021 +0530
+
+    Update web.xml
+
+[33mcommit 21b2634f62acde138594ca91ff1a47e6adc632ff[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sun Feb 28 13:16:12 2021 +0530
+
+    Update README.md
+
+[33mcommit 7ed3eb27ae673da31e193aab951a0989f12e62c6[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sun Feb 28 13:15:44 2021 +0530
+
+    Update README.md
+
+[33mcommit 6dd1c8988e1b34d902d7d53728dfeec48906acd4[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sun Feb 28 13:15:16 2021 +0530
+
+    Update README.md
+
+[33mcommit 11adc09967e91ac9907f45528cbfb77a2ff20272[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Tue Jun 16 16:26:16 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit de043c505e7adab1f892498ca231280298fc2674[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Fri Mar 27 19:09:52 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit e023267ad230263737198d87c595d67b82e44704[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 24 13:58:45 2019 +0000
+
+    my final commit in this repo
+
+[33mcommit cc8076dbf4a13b0bc2d093ea6d086da6c8d31104[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 17 02:33:49 2019 +0000
+
+    latest updates
+
+[33mcommit 46fde24d65d3fba1d59f0ece035b2896146300eb[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 17 02:30:37 2019 +0000
+
+    latest updates
+
+[33mcommit 9b22e46b2db569be8e01c72998cd78cf1942ddc4[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 17 02:13:24 2019 +0000
+
+    latest updates
+
+[33mcommit dd17c3425ec2d40e7dd7a23bb2f770220409f263[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 17 01:47:33 2019 +0000
+
+    latest updates
+
+[33mcommit 0cbaff1f8e7eca1a17bd130133605fee64ef6983[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 19:57:11 2019 +0000
+
+    latest updates
+
+[33mcommit 56136e6ecb216b0bbe6a054964cb52319abfc32e[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 19:37:36 2019 +0000
+
+    adding changes
+
+[33mcommit 31ca30576c29d221ff73824de6cbd8b7eb942e13[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 19:24:14 2019 +0000
+
+    adding changes
+
+[33mcommit 9b761e98f365df2c801e983d195e438cda89bbbd[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 19:06:21 2019 +0000
+
+    adding changes
+
+[33mcommit 9f5e14a3a25c655fbe06d833c53932ecc854e15a[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 18:56:40 2019 +0000
+
+    adding changes
+
+[33mcommit 5cb18d0821be01b8cb6790dc08afa062e9f496f1[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Thu Aug 8 23:53:35 2019 +0000
+
+    updated index.jsp to deploy on container
+
+[33mcommit bdef0e403f31b80eaea395ea35775db2e0900478[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Thu Aug 8 22:27:56 2019 +0000
+
+    updated index.jsp
+
+[33mcommit f5ab766b22d2345bda02ba7be8601abf5b52f2ee[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sun Jul 21 03:29:22 2019 +0000
+
+    few other changes
+
+[33mcommit d4820c4419988eef64745c8e1c6615025a54b5f3[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sun Jul 21 03:25:29 2019 +0000
+
+    changed index.jsp to deploy on docker contaienr
+
+[33mcommit 352a168e53ef70e43c0983f1822efd954e8db75a[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sun Jul 21 03:13:41 2019 +0000
+
+    pushing changes to git
+
+[33mcommit 6dbf3baa442fa2c7bfca585b4ebf3ae718fbbe15[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Jul 20 17:37:17 2019 +0000
+
+    modified index file to test with docker
+
+[33mcommit a99f0161fc2ebc64a5ed9583bf4a59c27e2f7e17[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Jul 20 17:19:35 2019 +0000
+
+    modified index file to test with docker
+
+[33mcommit a2330f5eef65032612eea25b0847281cb0c52bd4[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Jul 19 00:59:39 2019 +0000
+
+    modified index.jsp
+
+[33mcommit d406744ba26ad6804cd8e0197f6bfe0b4b20c3eb[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Thu Jul 18 23:29:30 2019 +0000
+
+    test commit
+
+[33mcommit 0a8dd74abcfea2081668dbc5fd62eb85ade30297[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Thu Jul 18 23:28:28 2019 +0000
+
+    test commit
+
+[33mcommit 05154373c18d891d1053c7b45ffe3228ba039176[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Thu Jul 18 04:45:45 2019 +0000
+
+    modified index.jsp
+
+[33mcommit 7760906b329bb1cf0c9296689a139b387d96049d[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Thu Jul 18 04:42:08 2019 +0000
+
+    modified index.jsp
+
+[33mcommit 9ab69e9dfe6e755f46659d3b7b8b10e14a56f2dd[m
+Author: Cloud User <ec2-user@ip-172-31-3-222.ap-south-1.compute.internal>
+Date:   Mon Jan 14 12:33:31 2019 +0000
+
+    modified index.jsp
+
+[33mcommit 5585d76036674467b541ea16580bafe3695ae67e[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sun Dec 23 11:22:05 2018 +0530
+
+    updated index.jsp file
+
+[33mcommit dea1202a62d9bd08910bf1bc86c2402e6e748b26[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sun Dec 23 11:21:09 2018 +0530
+
+    initial commit
+
+[33mcommit 1d3202d2c47455f868741b3b5fa612b54a0c0064[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Sun Dec 23 11:19:39 2018 +0530
+
+    Readme file update
